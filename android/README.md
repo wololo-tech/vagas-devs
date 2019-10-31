@@ -1,4 +1,4 @@
-[![](https://lh3.ggpht.com/p/AF1QipMIpZU6JPemFP9cpgn1Ml7L5rHradixQ2nYvnOi=s512)](https://talkative.media/)
+[![](https://lh3.ggpht.com/p/AF1QipMIpZU6JPemFP9cpgn1Ml7L5rHradixQ2nYvnOi=150x150)](https://talkative.media/)
 
 ## Descrição da vaga
 
@@ -38,7 +38,8 @@ Diferenciais
 
 ## Contratação
 
-*   Full-time*   Pessoa Jurídica com salário a combinar
+*   Full-time
+*   Pessoa Jurídica com salário a combinar
 
 ## Como se candidatar
 
