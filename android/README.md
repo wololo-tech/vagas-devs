@@ -4,7 +4,7 @@
 
 ## Descrição da vaga
 
-Procuramos um desenvolvedor Android Júnior, organizado, antenado em novas tecnologias, disposto a aprender e compartilhar conhecimentos. A Wololo é startup criada sob o conceito de Comunidades, com o objetivo de estabelecer uma conexão entre marcas e seus stakeholders. Estamos buscando ampliar nossa equipe e queremos alguém que esteja disposto a crescer em conjunto com a nossa empresa. Buscamos um profissional proativo e super interessado em aprender novas tecnologias, mas que já tenha conhecimentos específicos necessários para acompanhar os projetos da nossa empresa.
+Procuramos um desenvolvedor Android Júnior, organizado, antenado em novas tecnologias, disposto a aprender e compartilhar conhecimentos. A Wololo é uma startup criada sob o conceito de Comunidades, com o objetivo de estabelecer uma conexão entre marcas e seus stakeholders. Estamos buscando ampliar nossa equipe e queremos alguém que esteja disposto a crescer em conjunto com a nossa empresa. Buscamos um profissional proativo e super interessado em aprender novas tecnologias, mas que já tenha conhecimentos específicos necessários para acompanhar os projetos da nossa empresa.
 
 ## Local
 
