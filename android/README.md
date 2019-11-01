@@ -1,4 +1,6 @@
-[![](https://lh3.ggpht.com/p/AF1QipMIpZU6JPemFP9cpgn1Ml7L5rHradixQ2nYvnOi=150x150)](https://talkative.media/)
+<p align="center">
+  <img src="https://lh3.ggpht.com/p/AF1QipMIpZU6JPemFP9cpgn1Ml7L5rHradixQ2nYvnOi" width="150">
+</p>
 
 ## Descrição da vaga
 
